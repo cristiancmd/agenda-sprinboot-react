@@ -1,6 +1,6 @@
 # agenda-sprinboot-react
 
-https://img.shields.io/github/languages/top/cristiancmd/agenda-springboot-react
+![GitHub top language](https://img.shields.io/github/languages/top/cristiancmd/agenda-springboot-react)
 
 ## Try app:
 
